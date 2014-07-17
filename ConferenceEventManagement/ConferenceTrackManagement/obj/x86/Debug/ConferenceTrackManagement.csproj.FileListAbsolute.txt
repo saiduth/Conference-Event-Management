@@ -1,0 +1,7 @@
+c:\users\prithvi\documents\visual studio 2010\Projects\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\ConferenceTrackManagement.exe
+c:\users\prithvi\documents\visual studio 2010\Projects\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\ConferenceTrackManagement.pdb
+c:\users\prithvi\documents\visual studio 2010\Projects\ConferenceTrackManagement\ConferenceTrackManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\prithvi\documents\visual studio 2010\Projects\ConferenceTrackManagement\ConferenceTrackManagement\obj\x86\Debug\ConferenceTrackManagement.exe
+c:\users\prithvi\documents\visual studio 2010\Projects\ConferenceTrackManagement\ConferenceTrackManagement\obj\x86\Debug\ConferenceTrackManagement.pdb
+D:\saiduth\ConferenceTrackManagement\ConferenceTrackManagement\obj\x86\Debug\ConferenceTrackManagement.exe
+D:\saiduth\ConferenceTrackManagement\ConferenceTrackManagement\obj\x86\Debug\ConferenceTrackManagement.pdb
